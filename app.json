@@ -14,7 +14,8 @@
     "scheme": "aora_adso",
     "assetBundlePatterns": ["**/*"],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "package": "co.edu.sena"
     },
     "android": {
       "adaptiveIcon": {
